@@ -2,4 +2,10 @@
 
 ## Diference beetween Local Storage, Session Storage and IndexedDB
 
-## Hos this project works
+**Local Storage** :
+
+**Session Storage** :
+
+**IndexedDB** :
+
+## How this project works?
